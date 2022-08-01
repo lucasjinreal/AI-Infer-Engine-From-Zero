@@ -22,7 +22,7 @@ AI已经到了一个非常成熟的阶段，我们要做的，不仅仅是 `pyth
 - [WNNX从0实现AI推理引擎（四）](https://www.yuque.com/docs/share/5c19f243-aac3-4a4a-baa8-a8c6730b4cf1)
 - [WNNX从0实现AI推理引擎（五）](mds/2022_06_06_12_WNNX从0实现AI推理引擎（五）.md)
 - [WNNX从0实现AI推理引擎（六）](mds/2022_06_07_11_WNNX从零实现一个AI推理引擎（六）.md)
-- [WNNX从0实现AI推理引擎（七）](mds/2022_06_06_12_WNNX从0实现AI推理引擎（五）.md)
+- [WNNX从0实现AI推理引擎（七）](mds/2022_08_01_03_WNNX从0实现AI推理引擎之终结篇前序.md)
 - [WNNX从0实现AI推理引擎（八）](mds/2022_06_06_12_WNNX从0实现AI推理引擎（五）.md)
 - [WNNX从0实现AI推理引擎（九）](mds/2022_06_06_12_WNNX从0实现AI推理引擎（五）.md)
 
